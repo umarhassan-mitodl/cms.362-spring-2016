@@ -29,9 +29,9 @@ TEACHING TEAMS
 
 Welcome!
 
-Course overview; customer development & [Lean Canvas](https://canvanizer.com/new/lean-canvas)
+Course overview; customer development & {{% resource_link "279fad0e-5fac-4761-b8c7-0460d7347fde" "Lean Canvas" %}}
 
-Workshop: Course tools (blog, [Trello](https://trello.com/), Google docs, [LaunchPad Central](https://www.launchpadcentral.com/))
+Workshop: Course tools (blog, {{% resource_link "b075383c-9ad6-4563-baf0-eb0313f032d8" "Trello" %}}, Google docs, {{% resource_link "b12758a2-1494-4553-803c-600b3a8bd373" "LaunchPad Central" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 First blog post to course website: Introduce yourself!
@@ -63,7 +63,7 @@ Design teams formed
 
 Discuss what MVP is
 
-[Etherpad for Session 3](http://pad.mit.edu/p/codesign-feb17-2016)
+{{% resource_link "f21ebee6-b751-444f-82bf-e5b4d5280c84" "Etherpad for Session 3" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -92,13 +92,13 @@ Working agreements due
 
 Workshop: Business model canvas
 
-Guest: [Maggie Cohn](http://www.cooperativefund.org/book/export/html/33), Cooperative Fund of New England
+Guest: {{% resource_link "503595ad-d5af-49b5-80f6-49ee70e881f5" "Maggie Cohn" %}}, Cooperative Fund of New England
 
-[Etherpad for Session 4](http://pad.mit.edu/p/codesign-feb24-2016)
+{{% resource_link "14c5711c-879c-47d1-99f9-6ae6ac46cd1f" "Etherpad for Session 4" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
-- Work on draft product canvas for 3 of their product ideas, each one has 1-3 hypotheses in each of the 9 canvas areas \[[Business Model Canvas](https://canvanizer.com/new/business-model-canvas)\]
+- Work on draft product canvas for 3 of their product ideas, each one has 1-3 hypotheses in each of the 9 canvas areas \[{{% resource_link "6c84a6f2-bd25-4a04-827b-ade4b736a226" "Business Model Canvas" %}}\]
 - Blog post from your group sharing your Canvas
 
 {{< tdclose >}}{{< tdopen >}}
@@ -111,9 +111,9 @@ Presentation: Canvas is due; you'll present the one you think is best and want t
 
 Workshop: Customer interviews
 
-Guest: [Stacey Cordeiro](http://bcco.coop/our-staff/), Boston Center for Community Ownership
+Guest: {{% resource_link "0b280439-a63b-400e-b2c0-0e84af4f0e8d" "Stacey Cordeiro" %}}, Boston Center for Community Ownership
 
-[Etherpad for Session 5](http://pad.mit.edu/p/codesign-march2-2016)
+{{% resource_link "2a405619-f7ed-488e-87b9-28b06cec7e64" "Etherpad for Session 5" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -132,9 +132,9 @@ Interviews round 1 are due
 
 Workshop: Paper prototyping
 
-Use [PopApp.in](https://hackdesign.org/toolkit/pop-prototyping-on-paper) to create paper prototypes of your product candidates, incorporating your canvas revisions & feedback from the customer interviews.
+Use {{% resource_link "eebde4b8-f862-4c44-b88f-ad3e128ed20d" "PopApp.in" %}} to create paper prototypes of your product candidates, incorporating your canvas revisions & feedback from the customer interviews.
 
-[Etherpad for Session 6](http://pad.mit.edu/p/codesign-march9-2016)
+{{% resource_link "e61ec536-c64c-42aa-aec5-bfe1643a90f3" "Etherpad for Session 6" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -155,7 +155,7 @@ Interviews & prototype testing
 
 How is the process working out so far? Discuss whether there are any changes that need to be made in how you work together.
 
-[Etherpad for Session 7](http://pad.mit.edu/p/codesign-march16-2016)
+{{% resource_link "f2673170-849e-4422-9d19-4579fdf219da" "Etherpad for Session 7" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 None!
@@ -165,11 +165,11 @@ In class review
 8\. DiscoTechs, Design Jams & Hackathons
 {{< tdclose >}}{{< tdopen >}}
 
-We'll talk about DiscoTechs, design jams, hackathons, and the role of events in building community. We'll discuss the upcoming [Co-op DiscoTech](https://www.eventbrite.com/e/coop-discotech-boston-tickets-23441822121#). Also, we'll discuss what these events are NOT so great for.
+We'll talk about DiscoTechs, design jams, hackathons, and the role of events in building community. We'll discuss the upcoming {{% resource_link "72c55fdc-23f4-45d3-8b3b-921c0a852681" "Co-op DiscoTech" %}}. Also, we'll discuss what these events are NOT so great for.
 
-Workshop: Deeper Interviews with [Mary Gray](https://www.microsoft.com/en-us/research/people/mlg/), Senior Researcher at Microsoft Research. What we learn, and don't learn, from interviews as a method.
+Workshop: Deeper Interviews with {{% resource_link "8b3884b6-6f45-4b13-b1a6-a9f93f9596a6" "Mary Gray" %}}, Senior Researcher at Microsoft Research. What we learn, and don't learn, from interviews as a method.
 
-[Etherpad for Session 8](http://pad.mit.edu/p/codesign-march30)
+{{% resource_link "ed315b53-de44-47c4-b246-d5d43632d695" "Etherpad for Session 8" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -185,9 +185,9 @@ Workshop: Deeper Interviews with [Mary Gray](https://www.microsoft.com/en-us/res
 
 Presentation: Paper Prototype I - 20 minutes each (plus Q&A). What assumptions have you tested, and learned, so far? What do you need to test next? How will you test?
 
-Guest: [Dayna Cunningham](https://www.colab.mit.edu/people-1/2021/9/19/dayna-l-cunningham), Executive Director, Community Innovator's Lab
+Guest: {{% resource_link "624b7f3f-58d7-43df-a3a4-1e36511cbc51" "Dayna Cunningham" %}}, Executive Director, Community Innovator's Lab
 
-[Etherpad for Session 9](http://pad.mit.edu/p/codesign-april6-2016)
+{{% resource_link "abbf773e-56b4-4472-9341-ee8ff416677f" "Etherpad for Session 9" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -228,7 +228,7 @@ Share {{% resource_link "eebdd8d5-19b7-d501-0c0f-7d7b5aed57b1" "Final Presentati
 12\. Looking forward with Participatory Economics & Project Session
 {{< tdclose >}}{{< tdopen >}}
 
-This week we'll be having a guest speaker to talk about the economics of a cooperative economy. [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) is the author of many books about alternative and cooperative economic models, and has developed detailed proposals for participatory economics (parecon).
+This week we'll be having a guest speaker to talk about the economics of a cooperative economy. {{% resource_link "01ee0be6-338d-48da-a8c5-a29ffb059fe8" "Michael Albert" %}} is the author of many books about alternative and cooperative economic models, and has developed detailed proposals for participatory economics (parecon).
 
 DiscoTech preparation
 
@@ -256,7 +256,7 @@ Case study complete draft is due – what was tested and learned in user acquisi
 - Logistics questions about the final class
 - 25 minute project feedback sessions with instructors
 
-[Etherpad for Session 13](http://pad.mit.edu/p/codesign-may4-2016)
+{{% resource_link "fd93aba6-58a1-4065-99ee-c4630ba34611" "Etherpad for Session 13" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 

@@ -36,7 +36,7 @@ Projects must have a clearly defined community partner that is a worker-owned co
 
 ### Tools
 
-- [Etherpad](http://etherpad.org/)
-- [Trello](https://trello.com/)
-- [POPApp](https://popapp.in/)
-- [LaunchPad Central](https://www.launchpadcentral.com/)
+- {{% resource_link "5aa39242-2c13-4858-b3a9-b8557a118dba" "Etherpad" %}}
+- {{% resource_link "b075383c-9ad6-4563-baf0-eb0313f032d8" "Trello" %}}
+- {{% resource_link "8f1d5d46-7d2a-4f57-84f5-b964b2e49ff7" "POPApp" %}}
+- {{% resource_link "b12758a2-1494-4553-803c-600b3a8bd373" "LaunchPad Central" %}}
