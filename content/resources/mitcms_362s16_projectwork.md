@@ -4,8 +4,6 @@ description: This resource contains the information regarding project working ag
 file: /courses/cms-362-civic-media-codesign-studio-spring-2016/0f3714dfb89d83cd0b71b5e17a913868_MITCMS_362S16_ProjectWork.pdf
 file_size: 511062
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

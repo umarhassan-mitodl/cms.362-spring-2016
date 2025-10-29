@@ -4,8 +4,6 @@ description: This resource contains the information regarding case study templat
 file: /courses/cms-362-civic-media-codesign-studio-spring-2016/b549c57b59ef29fe8fed6441c641241d_MITCMS_362S16_CaseStudy.pdf
 file_size: 762277
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
